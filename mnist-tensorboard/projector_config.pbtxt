@@ -1,0 +1,4 @@
+embeddings {
+  tensor_name: "images:0"
+  metadata_path: "/home/yangzhic/tutorials/mnist_tf/mnist-tensorboard/metadata.tsv"
+}

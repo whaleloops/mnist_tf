@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/yangzhic/tutorials/mnist_tf/mnist-tensorboard/images.ckpt"
+all_model_checkpoint_paths: "/home/yangzhic/tutorials/mnist_tf/mnist-tensorboard/images.ckpt"
